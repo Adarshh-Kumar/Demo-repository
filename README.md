@@ -1,3 +1,3 @@
 # Demo-repository
 This is  first repositary
-Author ~ Adarsh Kumar Dwivedi from India
+Author ~ Adarsh Kumar Dwivedi  <br> from India
